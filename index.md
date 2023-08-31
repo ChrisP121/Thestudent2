@@ -12,7 +12,7 @@ my github:
 
 What I look like:
 
-<img src="images/IMG_3036.png" width="400" height="480">
+<img src="images/IMG_3036.png" width="480" height="400">
 
 My freeform!
 
@@ -123,7 +123,7 @@ newInputLine(0);
 Lastly, this is my class schedule:
 
 
-<img src="images/IMG_4062.jpg" width="400" height="500">
+<img src="images/IMG_4062.jpg" width="400" height="600">
 
 
 
