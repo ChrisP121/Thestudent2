@@ -123,7 +123,7 @@ newInputLine(0);
 Lastly, this is my class schedule:
 
 
-<img src="images/IMG_4062.jpg" width="400" height="450">
+<img src="images/IMG_4062.jpg" width="450" height="450">
 
 
 
