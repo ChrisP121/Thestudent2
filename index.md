@@ -12,7 +12,7 @@ my github:
 
 What I look like:
 
-<img src="images/IMG_3036.png" width="550" height="500">
+<img src="images/IMG_3036.png" width="400" height="480">
 
 My freeform!
 
