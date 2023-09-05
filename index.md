@@ -190,7 +190,7 @@ Week 1:
 # Python IO:
 - From the Python directory run quiz.py in VS Code, this will show the workflow of Input and Output in the terminal
 - Build Jupiter notebook
-- Build a quiz that includes original questions and shows outputs
+- xBuild a quiz that includes original questions and shows outputs
 - Create both markdowns for description and code for execution
 - Add comments to Python code
 Additional requirements:
