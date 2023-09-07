@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Detail Plan
-description: Example Plan!!! Analyze hacks and plan.
+description: Analyze hacks and plan.
 type: plans
 courses: { compsci: {week: 1} }
 ---
